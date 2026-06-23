@@ -3,7 +3,7 @@
 <img src="https://drive.google.com/file/d/1q-LWgqIGegTU1zZBG7ZuAgFGdfKsSpWg/view" width="100%"/>
 
 <a href="https://github.com/Anuvindh23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+HCL+GUVI;Building+the+HackerKID+Ecosystem+%F0%9F%9A%80;Full-Stack+%7C+Mobile+%7C+Desktop+%7C+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+HCL+GUVI;Full-Stack+%7C+Mobile+%7C+Desktop+%7C+Systems" alt="Typing SVG" />
 </a>
 
 <br/>

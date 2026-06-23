@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Anuvindh%20M&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Mobile%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://drive.google.com/file/d/1q-LWgqIGegTU1zZBG7ZuAgFGdfKsSpWg/view?usp=drive_link" width="100%"/>
 
 <a href="https://github.com/Anuvindh23">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+HCL+GUVI;Building+the+HackerKID+Ecosystem+%F0%9F%9A%80;Full-Stack+%7C+Mobile+%7C+Desktop+%7C+Systems" alt="Typing SVG" />

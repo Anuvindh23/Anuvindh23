@@ -216,7 +216,7 @@ Sri Eshwar College of Engineering, Coimbatore (2020 – 2024)
 
 <br/>
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -227,7 +227,7 @@ Sri Eshwar College of Engineering, Coimbatore (2020 – 2024)
 
 </div>
 
-<br/>
+<br/> <!-->
 
 <div align="center">
 
